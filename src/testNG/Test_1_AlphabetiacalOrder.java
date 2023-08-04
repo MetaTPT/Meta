@@ -10,7 +10,7 @@ public class Test_1_AlphabetiacalOrder {
    WebDriver driver;
 
 @Test (priority=1)
-  public void f() {
+  public void facebook() {
 	driver.get("https://www.facebook.com");
   }
 
